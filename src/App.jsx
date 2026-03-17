@@ -254,7 +254,7 @@ function FreeGiftsTeaser() {
           BUY NOW FOR $17 ONLY!
         </a>
         <p className="label-mono text-muted text-[10px] mt-4 mb-6 reveal">life is too precious to miss this tasty opportunity!</p>
-        <img src="/img3.png" alt="" className="w-full object-cover reveal border border-rule/30" style={{ maxHeight: '360px', objectPosition: 'center' }} />
+        <img src="/img3.avif" alt="" className="w-full object-cover reveal border border-rule/30" style={{ maxHeight: '360px', objectPosition: 'center' }} />
       </div>
     </section>
   )
@@ -314,7 +314,7 @@ function Citations() {
             </div>
           ))}
         </div>
-        <img src="/img4.png" alt="" className="w-full object-cover mt-12 reveal border border-rule" style={{ maxHeight: '400px', objectPosition: 'center' }} />
+        <img src="/img4.avif" alt="" className="w-full object-cover mt-12 reveal border border-rule" style={{ maxHeight: '400px', objectPosition: 'center' }} />
       </div>
     </section>
   )
