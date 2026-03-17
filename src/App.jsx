@@ -210,7 +210,7 @@ function PricingCTA() {
         <p className="font-serif italic text-paper/80 text-xl mb-10 reveal">Download The Cookbook for <span className="line-through text-muted">$147</span> Just $17.00!</p>
         <div className="border border-ink/40 p-8 text-left bg-paper reveal">
           <p className="label-mono text-forest text-[10px] mb-6">delivered instantly · hardcover now available</p>
-          <a href="#step2" className="cta-btn block text-center bg-forest text-paper font-body font-bold px-8 py-4 border border-ink text-sm mb-4">
+          <a href="https://pay.hotmart.com/H104946302E" target="_blank" rel="noopener noreferrer" className="cta-btn block text-center bg-forest text-paper font-body font-bold px-8 py-4 border border-ink text-sm mb-4">
             GO TO STEP 2 →
           </a>
           <p className="label-mono text-muted text-[10px] text-center">100% secure 256-bit encrypted checkout</p>
@@ -639,10 +639,10 @@ function AccessSummary() {
             <div className="p-8">
             <p className="font-serif text-5xl text-ink font-bold mb-1 mt-4">$17</p>
             <p className="font-body text-ink/60 text-sm mb-8">one-time payment — no subscriptions</p>
-            <a href="#step2" className="cta-btn block text-center bg-forest text-paper font-body font-bold px-8 py-4 border border-ink text-sm mb-3">
+            <a href="https://pay.hotmart.com/H104946302E" target="_blank" rel="noopener noreferrer" className="cta-btn block text-center bg-forest text-paper font-body font-bold px-8 py-4 border border-ink text-sm mb-3">
               BUY NOW FOR $17 ONLY!
             </a>
-            <a href="#step2" className="block text-center label-mono text-forest text-[10px] mb-6 ed-underline">Click Here To Get Started</a>
+            <a href="https://pay.hotmart.com/H104946302E" target="_blank" rel="noopener noreferrer" className="block text-center label-mono text-forest text-[10px] mb-6 ed-underline">Click Here To Get Started</a>
             <p className="label-mono text-muted text-[10px] text-center mb-4">100% secure 256-bit encrypted checkout</p>
             <div className="pt-6 border-t border-rule text-center">
               <p className="label-mono text-forest text-[10px] mb-1">fully backed by our</p>
